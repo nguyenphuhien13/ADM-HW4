@@ -33,3 +33,6 @@ If you have trouble viewing the ipynb on github, please use the [nbviewer](http:
 
 4.`Files adm.rar`:
 > A rar file of scraped data
+
+5.`images.png`:
+> A png file contains image we filled word cloud in
