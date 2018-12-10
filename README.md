@@ -5,8 +5,8 @@
 All the saved data from scraping is compressed inside the filesadm.rar. It includes all of our data in pkl format.
 
 ### Data
-The webpage from which we scraped for information is [here](https://www.immobiliare.it/vendita-case/roma/?criterio=rilevanza&pag=1)
-We also scraped for the description of each house by the mylinks.pkl files.
+The webpage from which we scraped for information is [here](https://www.immobiliare.it/vendita-case/roma/?criterio=rilevanza&pag=1)<br/>
+We also scraped for the description of each house by the mylinks.pkl file.
 
 ### Additional data
 For part 2 we used the passwords2.txt file which can be downloaded from [here](https://drive.google.com/file/d/1wTmOU-yqk4qdQYg42AquhzgpNGrRA96d/view)
