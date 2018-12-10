@@ -19,7 +19,7 @@ This homework is divided into 2 seperate parts:
 #### Remark: 
 If you have trouble viewing the ipynb on github, please use the [nbviewer](http://nbviewer.jupyter.org/). In fact, we recommend you use the nbviewer links since the ipynb files are large in size. Here are:
 [Part1](http://nbviewer.jupyter.org/github/nguyenphuhien13/ADM-HW4/blob/master/HW4-Part1.ipynb)
-[Part2]()
+[Part2](http://nbviewer.jupyter.org/github/nguyenphuhien13/ADM-HW4/blob/master/HW4-Part2.ipynb)
 
 ## Script Description
 1. `HW4-Part1`:
